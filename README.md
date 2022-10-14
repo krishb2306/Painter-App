@@ -1,10 +1,15 @@
 # Painter-App
 
-Welcome to my ToDoList App. The general purpose of this app was to make it so that you are greated only by the tasks you have ahead of you.
-Essentially, the app is linked with your Calendar, so that any events during your day and shown in the app. On default you see your events for today and tomorrow. This makes it so that you focus on the most important things and worry about future events later. The app will automatically mark any event complete once its endDate has passed. The app also has built is storage, so that all your previous completed tasks stay completed. The completed tasks will only show the last 7 days. 
+Welcome to my painter app. The app overall is simple and easy to use. Once you open the app you will see a white area where you can start
+drawing. If you press on the settings button on the top right, a menu with different options will show up. You can tap on the default color
+button at the top left to reset the color, or you can press the stroke width button to reset it to the default size. 
 
-You can press on the "plus" button to add a new calendar event, which also will get added onto the app. For any events that have not been completed you can still edit them by pressing on the "i" button, which will let you change any part of it, or even delete the event as a whole. The reason I made the editing like this is because once an event passes, you should forget about it and move onto the next one, so I don't want you to edit it after its done.
-You can click on the empty circle to the left, to mark an event complete. And you can press on a completed event to mark it as incomplete.
+You can pick any color with the color picker, and it will be shown in the box to the top right. You can then pick a circle, or rectangle to draw
+You can always go back to the brush or you can use the eraser to delete specific parts. 
+
+When you click on one of the 4 middle buttons it will change to blue to signal you have clicked on the button. Shapes will default the stroke
+width back to 4, so that it's easier to use. After you are done using the eraser it will return back to the brush and your previous color. 
+You can also pick a width between 1-100. 
 
 
 <p float="left">
